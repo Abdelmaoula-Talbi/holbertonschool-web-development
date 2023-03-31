@@ -8,6 +8,7 @@ The designer file will be available on Figma (https://www.figma.com/files/recent
 
 
 
+
 **Sitemap of the project:**
 
 ![sitemap](images/sitemap.jpg)
