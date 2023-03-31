@@ -4,8 +4,7 @@
 
 In this and coming projects, we will implement from scratch a webpage from a designer file.  
 For this first project, we will focus on the HTML structure only - no CSS, no style - just pure HTML semantic.  
-The designer file will be available on Figma (https://www.figma.com/files/recent?fuid=1222559222280735954).
-
+The designer file will be available on Figma (https://www.figma.com/files/recent?fuid=1222559222280735954).  
 
 
 
