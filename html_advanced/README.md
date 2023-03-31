@@ -7,6 +7,8 @@ For this first project, we will focus on the HTML structure only - no CSS, no st
 The designer file will be available on Figma (https://www.figma.com/files/recent?fuid=1222559222280735954).  
   
 
+
+
   
 **Sitemap of the project:**
 
