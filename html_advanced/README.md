@@ -1,16 +1,14 @@
 # html_advanced
 
 
+
 In this and coming projects, we will implement from scratch a webpage from a designer file.
-
 For this first project, we will focus on the HTML structure only - no CSS, no style - just pure HTML semantic.
-
 The designer file will be available on Figma(link: https://www.figma.com/files/recent?fuid=1222559222280735954).
-
 
 **Sitemap of the project:**
 
-![sitemap](./images/sitemap%20of%20the%201st%20project%20in%20web%20development.jpg)
+![sitemap](images/sitemap.jpg)
 
 **Ressources:**
 
