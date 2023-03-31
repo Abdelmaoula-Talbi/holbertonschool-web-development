@@ -10,7 +10,7 @@ The designer file will be available on Figma(link: https://www.figma.com/files/r
 
 **Sitemap of the project:**
 
-![sitemap](images/sitemap%20of%20the%201st%20project%20in%20web%20development.jpg)
+![sitemap](./images/sitemap%20of%20the%201st%20project%20in%20web%20development.jpg)
 
 **Ressources:**
 
@@ -20,7 +20,7 @@ The designer file will be available on Figma(link: https://www.figma.com/files/r
 
 - https://developer.mozilla.org/en-US/
 
-** Learning Objectives: **
+**Learning Objectives:**
 
 At the end of this project, we are expected to be able to explain to anyone, without the help of Google:
 
