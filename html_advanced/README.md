@@ -16,11 +16,11 @@ The designer file will be available on Figma (https://www.figma.com/files/recent
 
 **Ressources:**
 
-- https://learn.shayhowe.com/html-css/
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
 
-- https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
+- [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 
-- https://developer.mozilla.org/en-US/
+- [MDN](https://developer.mozilla.org/en-US/)
 
 **Learning Objectives:**
 
