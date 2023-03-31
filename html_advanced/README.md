@@ -16,7 +16,7 @@ The designer file will be available on Figma (https://www.figma.com/files/recent
 
 **Ressources:**
 
-- [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/) (until “Creating Lists” included)
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/) (_until “Creating Lists” included_)
 - [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 - [MDN](https://developer.mozilla.org/en-US/)
 
